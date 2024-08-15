@@ -1,0 +1,6 @@
+export const GAMES = "Games"
+export const SCORES = "Scores"
+export const LEVELS = "Levels"
+export const QUESTIONS = "Questions"
+export const SESSION = "Session"
+export const USERS = "Users"
